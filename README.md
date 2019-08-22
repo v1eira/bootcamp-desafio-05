@@ -49,3 +49,8 @@ Esse desafio **não precisa ser entregue** e não receberá correção, mas voc�
 Após concluir o desafio, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
 
 “Para quem fica melhor a cada dia, ficar pronto é utopia”!
+
+## Resolução
+![main](examples/main.png)
+
+![repository](examples/repository.png)

@@ -120,7 +120,7 @@ export const IssueFilter = styled.div`
   }
 `;
 
-export const PageActions = styled.div`
+export const Pages = styled.div`
   padding-top: 15px;
   display: flex;
   justify-content: space-between;
